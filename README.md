@@ -2,10 +2,7 @@
 
 **University group project, 2021**
 
-Sustainable Gaming is a concept for a digital games marketplace paired with a themed Game Jam. The design explores how a familiar store experience can surface sustainability themes through discovery, categorisation, product pages, and community participation.
-
-This repository is intentionally a design case study. It documents the process and final artefacts; it does not contain the original application source code.
-
+Sustainable Gaming is a concept for a digital games marketplace paired with a themed Game Jam.
 ## Design development
 
 ### 1. Wireframes
