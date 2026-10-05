@@ -30,20 +30,10 @@ The moodboards establish the dark blue-green base, bright cyan and pink accents,
 
 The visual system was applied to the landing page, catalogue, product detail view, Game Jam, account flows, and supporting information pages.
 
-![Landing-page prototype](images/home-prototype.png)
+![Landing-page prototype](images/01-Startseite.png)
 
-![Catalogue prototype](images/catalogue-prototype.png)
+![Catalogue prototype](images/02-Shop.png)
 
 - [Early low-fidelity prototype](docs/prototypes/Early-Prototype.pdf)
 - [Final high-fidelity mockups](docs/prototypes/High-Fidelity-Mockups.pdf)
 - [Original Adobe XD source files](docs/source-files/)
-
-## My contribution
-
-I created the hand-drawn wireframes included in this repository and contributed to the interactive storefront prototype. The moodboards and final visual design were produced as team deliverables.
-
-## Archive note
-
-The mockups and moodboards are preserved as historical coursework. They contain third-party games, brands, images, and organisation logos used as visual references only. They do not imply affiliation, endorsement, or a partnership, and they are not assets for reuse.
-
-Image credits from the original project are collected in [`docs/ATTRIBUTIONS.md`](docs/ATTRIBUTIONS.md).
