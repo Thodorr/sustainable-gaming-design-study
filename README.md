@@ -1,5 +1,10 @@
 # Sustainable Gaming - UX/UI Design Study
 
+![UX%2FUI](https://img.shields.io/badge/UX%2FUI-Design%20Study-0B7285?logo=adobexd&logoColor=white)
+![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-Prototype-FF61F6?logo=adobexd&logoColor=white)
+![Project](https://img.shields.io/badge/Project-University%20Group%20Project-6C63FF)
+![Status](https://img.shields.io/badge/Status-Documented-2EA44F)
+
 **University group project, 2021**
 
 Sustainable Gaming is a concept for a digital games marketplace paired with a themed Game Jam.
